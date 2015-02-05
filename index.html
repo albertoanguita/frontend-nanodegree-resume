@@ -134,6 +134,7 @@ need to load. You'll see a lot of <link>s to CSS files for styles and
       $("#skills").append(HTMLskills.replace("%data%", bio.skills[skill]));
   }
 
+
   for (job in work.jobs) {
       $("#workExperience").append(HTMLworkStart);
       var employer = HTMLworkEmployer.replace("%data%", work.jobs[job].employer);
