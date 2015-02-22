@@ -1,0 +1,5 @@
+Websites visited during this project:
+
+Mozilla javascript reference: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference
+w3schools javascript reference: http://www.w3schools.com/jsref/
+jQuery API documentation: http://api.jquery.com/
